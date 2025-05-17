@@ -15,6 +15,8 @@ I’m an engineer with a deep passion for hardware-software integration, low-lev
 
 ## 🔧 Skills & Tools
 
+## 🔧 Skills & Tools
+
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
@@ -23,7 +25,10 @@ I’m an engineer with a deep passion for hardware-software integration, low-lev
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
 ![KiCad](https://img.shields.io/badge/-KiCad-3156F6?style=flat-square&logo=kicad)
+![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat-square)
+![EasyEDA](https://img.shields.io/badge/-EasyEDA-4082F4?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
 
 ---
 
