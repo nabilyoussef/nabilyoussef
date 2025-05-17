@@ -8,7 +8,7 @@ I’m an engineer with a deep passion for hardware-software integration, low-lev
 - 🌱 Currently learning: RTOS, Embedded Linux, and advanced PCB design  
 - 👯 Open to collaborate on: Firmware development, robotics, and IoT prototypes  
 - 💬 Ask me about: Microcontrollers (ARM, AVR), C/C++, FreeRTOS, and circuit design  
-- 📫 Reach me at: [your email or LinkedIn]  
+- 📫 Reach me at: [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ynabil634@gmail.com) 
 - ⚡ Fun fact: I once debugged a PCB with nothing but a LED and stubbornness
 
 ---
@@ -37,8 +37,8 @@ I’m an engineer with a deep passion for hardware-software integration, low-lev
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabil-youssef-557884219/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ynabil634@gmail.com)
 
 
 ---
