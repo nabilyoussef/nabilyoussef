@@ -8,7 +8,7 @@ I’m an engineer with a deep passion for hardware-software integration, low-lev
 - 🌱 Currently learning: RTOS, Embedded Linux, and advanced PCB design  
 - 👯 Open to collaborate on: Firmware development, robotics, and IoT prototypes  
 - 💬 Ask me about: Microcontrollers (ARM, AVR), C/C++, FreeRTOS, and circuit design  
-- 📫 Reach me at: ![Email](mailto:ynabil634@gmail.com) 
+- 📫 Reach me at: [Email](mailto:ynabil634@gmail.com) 
 - ⚡ Fun fact: I once debugged a PCB with nothing but a LED and stubbornness
 
 ---
